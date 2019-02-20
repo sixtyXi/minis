@@ -1,1 +1,2 @@
-#minis
+# minis
+Mini examples.
