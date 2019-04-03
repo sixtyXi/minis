@@ -1,0 +1,24 @@
+{
+  "name": "minis",
+  "version": "1.0.0",
+  "description": "Mini examples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sixtyXi/minis.git"
+  },
+  "author": "Sergei Karaulov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sixtyXi/minis/issues"
+  },
+  "homepage": "https://github.com/sixtyXi/minis#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.14.1",
+    "eslint-plugin-react": "^7.12.4"
+  }
+}
